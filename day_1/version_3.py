@@ -24,3 +24,7 @@ total_calories = sum(sum(elf_calories) for elf_calories in top_calories)
 
 # Print the total number of Calories carried by the top three Elves carrying the most Calories.
 print(total_calories)
+
+# # # # #  # # # # #
+# Date: 13.12.2022 #
+# # # # #  # # # # #
